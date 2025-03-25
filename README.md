@@ -4,7 +4,7 @@
 
 <p align="center">Junior Full Stack Developer | Backend Developer</p>
 
-Hello! I'm Ümran, a Full Stack Developer / Backend Developer who constantly evolves in the world of software development. I graduated with a degree in Software Engineering, and my interest in technology grows stronger every day. By keeping up with innovations in the industry, I continue to develop my skills in solving complex problems. I love creating innovative projects with modern technologies and turning them into effective solutions in the real world. My goal is to produce innovative solutions that make human life more efficient through technology. 🚀
+ I'm Ümran, a Full Stack Developer / Backend Developer who constantly evolves in the world of software development. I graduated with a degree in Software Engineering, and my interest in technology grows stronger every day. By keeping up with innovations in the industry, I continue to develop my skills in solving complex problems. I love creating innovative projects with modern technologies and turning them into effective solutions in the real world. My goal is to produce innovative solutions that make human life more efficient through technology. 🚀
 
 ###
 <div align="center">
