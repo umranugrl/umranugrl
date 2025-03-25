@@ -1,9 +1,8 @@
 ###
 
 <h1 align="center">Hey there, I'm Ümran! 👋🚀</h1>
-###
 
-<p>Junior Full Stack Developer | Backend Developer</p>
+<p align="center">Junior Full Stack Developer | Backend Developer</p>
 
 ###
 <div align="center">
