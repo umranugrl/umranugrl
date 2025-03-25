@@ -44,8 +44,4 @@ Hello! I'm Ümran, a Full Stack Developer / Backend Developer who constantly evo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="58" alt="postgresql logo" />
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="58" alt="git logo" />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="58" alt="github logo" />
 </div>
-
-
