@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 <h1 align="center">Hey there, I'm Ümran! 👋🚀</h1>
 
