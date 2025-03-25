@@ -1,6 +1,11 @@
 ###
 
 <h1 align="center">Hey there, I'm Ümran! 👋🚀</h1>
+###
+
+<p>Junior Full Stack Developer | Backend Developer</p>
+
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/umranugrl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="28" alt="linkedin logo" />
@@ -42,9 +47,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="58" alt="github logo" />
 </div>
 
-###
 
-<h3 align="left">🔥 My Stats :</h3>
-<p>Junior Full Stack Developer | Backend Developer</p>
-
-###
